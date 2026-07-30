@@ -53,4 +53,4 @@ if (perfil === "Administrador"){
 let ativo = true;
 console.log(!ativo);
 console.log(!false)
-// muito usado para alterar estados: v
+// muito usado para alterar estados: visível/invisível, ativo/inativo
